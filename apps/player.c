@@ -4,7 +4,8 @@ int main()
 {
 	printf("hello bug123");
 	printf("modified2222");
-	printf("github nojam");
+	printf("github is nojam");
+	printf("no! github is gguljam!");
 
 	func1();
 	func2();
