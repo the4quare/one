@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("this file is modified");
+	printf("hello bug123");
 	func1();
 	func2();
 	return 0;
